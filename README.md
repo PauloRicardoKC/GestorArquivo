@@ -1,6 +1,6 @@
 # GestorArquivo
 
-.Net project for Windows file management (copy, paste and delete).
+Domain Driven Design example C#  for Windows file management (copy, paste and delete).
 
 <h3>Features</h3>
 <ul>
