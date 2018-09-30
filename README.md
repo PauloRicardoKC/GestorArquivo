@@ -4,6 +4,7 @@ Domain Driven Design example C#  for Windows file management (copy, paste and de
 
 <h3>Features</h3>
 <ul>
+  <li>Domain Driven Design</li>  
   <li>.Net Framework 4.5.2</li>
   <li>EntityFramework 6.0</li>
   <li>Percentage usage check for disk</li>
