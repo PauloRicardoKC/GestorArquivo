@@ -1,0 +1,6 @@
+c:\users\alegria\Source\Repos\GestorArquivo\GestorArquivo.Dominio\bin\Debug\GestorArquivo.Dominio.dll
+c:\users\alegria\Source\Repos\GestorArquivo\GestorArquivo.Dominio\bin\Debug\GestorArquivo.Dominio.pdb
+c:\users\alegria\Source\Repos\GestorArquivo\GestorArquivo.Dominio\obj\Debug\GestorArquivo.Dominio.csprojAssemblyReference.cache
+c:\users\alegria\Source\Repos\GestorArquivo\GestorArquivo.Dominio\obj\Debug\GestorArquivo.Dominio.csproj.CoreCompileInputs.cache
+c:\users\alegria\Source\Repos\GestorArquivo\GestorArquivo.Dominio\obj\Debug\GestorArquivo.Dominio.dll
+c:\users\alegria\Source\Repos\GestorArquivo\GestorArquivo.Dominio\obj\Debug\GestorArquivo.Dominio.pdb

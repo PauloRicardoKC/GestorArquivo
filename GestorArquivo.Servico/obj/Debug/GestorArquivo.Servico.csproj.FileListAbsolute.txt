@@ -1,0 +1,14 @@
+c:\users\alegria\Source\Repos\GestorArquivo\GestorArquivo.Servico\bin\Debug\GestorArquivo.Servico.dll
+c:\users\alegria\Source\Repos\GestorArquivo\GestorArquivo.Servico\bin\Debug\GestorArquivo.Servico.pdb
+c:\users\alegria\Source\Repos\GestorArquivo\GestorArquivo.Servico\bin\Debug\GestorArquivo.Data.dll
+c:\users\alegria\Source\Repos\GestorArquivo\GestorArquivo.Servico\bin\Debug\GestorArquivo.Dominio.dll
+c:\users\alegria\Source\Repos\GestorArquivo\GestorArquivo.Servico\bin\Debug\EntityFramework.dll
+c:\users\alegria\Source\Repos\GestorArquivo\GestorArquivo.Servico\bin\Debug\GestorArquivo.Data.pdb
+c:\users\alegria\Source\Repos\GestorArquivo\GestorArquivo.Servico\bin\Debug\GestorArquivo.Data.dll.config
+c:\users\alegria\Source\Repos\GestorArquivo\GestorArquivo.Servico\bin\Debug\GestorArquivo.Dominio.pdb
+c:\users\alegria\Source\Repos\GestorArquivo\GestorArquivo.Servico\bin\Debug\EntityFramework.xml
+c:\users\alegria\Source\Repos\GestorArquivo\GestorArquivo.Servico\obj\Debug\GestorArquivo.Servico.csprojAssemblyReference.cache
+c:\users\alegria\Source\Repos\GestorArquivo\GestorArquivo.Servico\obj\Debug\GestorArquivo.Servico.csproj.CoreCompileInputs.cache
+c:\users\alegria\Source\Repos\GestorArquivo\GestorArquivo.Servico\obj\Debug\GestorArquivo.Servico.csproj.CopyComplete
+c:\users\alegria\Source\Repos\GestorArquivo\GestorArquivo.Servico\obj\Debug\GestorArquivo.Servico.dll
+c:\users\alegria\Source\Repos\GestorArquivo\GestorArquivo.Servico\obj\Debug\GestorArquivo.Servico.pdb
